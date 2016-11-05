@@ -1,0 +1,27 @@
+{
+  "name": "cookbook-dashboard",
+  "version": "0.0.1",
+  "description": "A dashboard for CookBook CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/cookbookcms/cookbook-dashboard",
+  "bugs": "https://github.com/cookbookcms/cookbook-dashboard/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cookbookcms/cookbook-dashboard.git"
+  },
+  "keywords": [
+    "cookbook",
+    "dashboard",
+    "admin",
+    "cms"
+  ],
+  "author": "Velimir Matic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cookbookcms/dashboard/issues"
+  },
+  "homepage": "https://github.com/cookbookcms/dashboard#readme"
+}
